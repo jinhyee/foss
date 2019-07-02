@@ -22,4 +22,5 @@
 * GeoServer
 
 ### 3일차
-* 무언가
+* Qgis
+* Pyton
